@@ -1,6 +1,6 @@
-#coding:utf-8
+ #coding:utf-8
 
-class Gestionnaire:
+ class Gestionnaire:
 
     def __init__(self, emprunt, compte):
         self.emprunt = emprunt
